@@ -33,7 +33,7 @@
 		<version>1.7.6</version>
 		<configuration>
 			<container>
-				<containerId>tomcat10x</containerId>
+				<containerId>tomcat9x</containerId>
 				<type>embedded</type>
 			</container>
 		</configuration>
